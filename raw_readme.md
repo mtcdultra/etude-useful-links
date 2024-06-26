@@ -7,7 +7,6 @@
 | [AI in action: 5 real-world intelligent apps you can build on Azure](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/ai-in-action-5-real-world-intelligent-apps-you-can-build-on/ba-p/4083413) | 2024-03-18 | Microsoft       |
 | [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)                                                                                                                            | 2016-11-20 | Jake VanderPlas |
 | [PRQL - Pipelined Relational Query Language](https://github.com/PRQL/prql)                                                                                                                                      | 2024-05-24 | GitHub > PRQL   |
+| [Development Containers - DevContainer](https://containers.dev/) | 2024-06-26| Microsoft|
 
----
 
-Last updated on 2024-05-25
