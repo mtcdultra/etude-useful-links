@@ -2,7 +2,7 @@
 
 | Title                                                                                                                                                                                                           | Published  | Source          |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | --------------- |
-|[Flask-SQLAlchemy-Lite](https://flask-sqlalchemy-lite.readthedocs.io/en/latest/)|This is intended to be a replacement for the Flask-SQLAlchemy extension|2024-06-30|Flask-SQLAlchemy-Lite|
+|[Flask-SQLAlchemy-Lite](https://flask-sqlalchemy-lite.readthedocs.io/en/latest/) - This is intended to be a replacement for the Flask-SQLAlchemy extension|2024-06-30|Flask-SQLAlchemy-Lite
 |[Development Containers - DevContainer](https://containers.dev)|2024-06-26|Microsoft|
 | [PRQL - Pipelined Relational Query Language](https://github.com/PRQL/prql)                                                                                                                                      | 2024-05-24 | GitHub > PRQL   |
 | [Get started with evaluating answers in a chat app in Python](https://learn.microsoft.com/en-us/azure/developer/python/get-started-app-chat-evaluations?tabs=github-codespaces)                                 | 2024-05-21 | Microsoft       |
